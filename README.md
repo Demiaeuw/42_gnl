@@ -50,9 +50,9 @@ int	get_next_line(int fd, char **line);
 
 La fonction renvoie :
 
-  1 lorsqu'une ligne a été lue avec succès.
-  0 lorsque la fin du fichier a été atteinte.
-  -1 en cas d'erreur.
+1 lorsqu'une ligne a été lue avec succès.
+0 lorsque la fin du fichier a été atteinte.
+-1 en cas d'erreur.
 
 ### Exemple d'utilisation
 
